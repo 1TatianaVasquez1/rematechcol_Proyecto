@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Producto 1", "price": 50, "description": "Descripción del Producto 1", "category": "Categoría 1", "image": "https://via.placeholder.com/100" },
+  { "id": 2, "name": "Producto 2", "price": 30, "description": "Descripción del Producto 2", "category": "Categoría 2", "image": "https://via.placeholder.com/100" },
+  { "id": 3, "name": "Producto 3", "price": 20, "description": "Descripción del Producto 3", "category": "Categoría 3", "image": "https://via.placeholder.com/100" }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "customer": "Juan Pérez",
+    "date": "2024-05-18",
+    "total": 80,
+    "products": [
+      { "id": 1, "name": "Producto 1", "price": 50 },
+      { "id": 2, "name": "Producto 2", "price": 30 }
+    ]
+  },
+  {
+    "id": 2,
+    "customer": "Ana Gómez",
+    "date": "2024-05-19",
+    "total": 30,
+    "products": [
+      { "id": 2, "name": "Producto 2", "price": 30 }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+.header,h1 {
+  font-size: 40px;
+  background-color: #282c34;
+  padding: 15px;
+  color: white;
+  text-align: center;
+}
+.header,h2{
+text-align: left;
+}
+
+ .li{
+text-align: left;
+}

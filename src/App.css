@@ -1,7 +1,31 @@
 .App {
-  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
 }
 
+.main-content {
+  padding: 100px;
+  width: 40%;
+}
+.footer-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2%;
+  background-color: #f1f1f1;
+}
+
+.footer-images img {
+  margin: 1%;
+  width: 600px;  /* Ajusta el ancho de todas las imágenes */
+  height: 400px; /* Ajusta la altura de todas las imágenes */
+  object-fit: cover; /* Ajusta la imagen para que cubra el área definida sin distorsionarse */
+}
+h2 {
+  margin-top: 18px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -14,7 +38,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #c9f0d356;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +49,8 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #ffffff;
+  align-content: left;
 }
 
 @keyframes App-logo-spin {
